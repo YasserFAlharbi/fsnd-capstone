@@ -8,6 +8,8 @@ There are three roles:
 
 ## Getting Started
 
+The app is hosted on: https://yfalharbi.herokuapp.com/
+
 ### Installing Dependencies
 
 #### Python 3.7
