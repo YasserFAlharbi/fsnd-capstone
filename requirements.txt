@@ -9,6 +9,7 @@ Flask==1.0.2
 Flask-Cors==3.0.8
 Flask-SQLAlchemy==2.4.0
 future==0.17.1
+gunicorn==20.0.4
 importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
 iniconfig @ file:///tmp/build/80754af9/iniconfig_1602780191262/work
 isort==4.3.18
